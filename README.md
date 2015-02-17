@@ -1,12 +1,12 @@
 # react-min-skl
 
-### watch
+### dev
 `gulp` or `gulp watch`
 
 ### build
 `npm run build`
 
-### server (example using [simple-http-server](https://github.com/andrewpthorp/simple-http-server))
+### serve (example using [simple-http-server](https://github.com/andrewpthorp/simple-http-server))
 ```
 npm -g install simple-http-server
 cd react-min-skl
