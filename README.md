@@ -1,4 +1,4 @@
-# react-min-skl
+# react-skeleton
 
 ### dev
 `gulp` or `gulp watch`
