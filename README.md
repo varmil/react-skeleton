@@ -13,3 +13,6 @@ cd react-skeleton
 nserver
 >> http://localhost:8000/public/index.html
 ```
+
+### memo
+* `coffee` `typescript` などを使用する場合は、 `react-skeleton/src` ディレクトリを作り、コンパイル結果を `react-skeleton/app` に吐き出す。（相対パスは維持したまま）
